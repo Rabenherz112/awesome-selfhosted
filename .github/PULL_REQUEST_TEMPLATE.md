@@ -28,9 +28,9 @@ To ensure your PR is dealt with swiftly please check the following:
 - [ ] Additions are inserted preserving alphabetical order.
 - [ ] Format your submission as follows, where `Demo` and `Clients` are optional.
   ``- [Name](http://homepage/) - Short description, under 250 characters, sentence case. ([Demo](http://url.to/demo), [Source Code](http://url.of/source/code), [Clients](https://url.to/list/of/related/clients-or-apps)) `License` `Language` ``
-- [ ] Do not add a duplicate `Source code` link if it is the same as the main link.
-- [ ] Keep the short description under 250 characters and use [sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) for it, even if the project's webpage or readme uses another capitalisation such as title case, all caps, small caps or all lowercase.
-- [ ] `Demo` links should only be used for interactive demos, i.e. not video demonstrations.
+  - [ ] Do not add a duplicate `Source code` link if it is the same as the main link.
+  - [ ] Keep the short description under 250 characters and use [sentence case](https://en.wikipedia.org/wiki/Letter_case#Sentence_case) for it, even if the project's webpage or readme uses another capitalisation such as title case, all caps, small caps or all lowercase.
+  - [ ] `Demo` links should only be used for interactive demos, i.e. not video demonstrations.
 - [ ] The `Language` tag is the main **server-side** requirement for the software. Don't include frameworks or specific dialects.
 - [ ] Any license you add is in our [list of licenses](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#list-of-licenses).
 
