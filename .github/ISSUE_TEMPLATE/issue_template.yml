@@ -1,0 +1,7 @@
+name: Issue
+description: Use this to report issues.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please do not open issues in this repository. Use [awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) instead.**
